@@ -1,0 +1,8 @@
+# Breathiterol USA — robots.txt
+User-agent: *
+Allow: /
+Disallow: /privacy
+Disallow: /terms
+
+# Sitemap
+Sitemap: https://breathiterolusa.vercel.app/sitemap.xml
